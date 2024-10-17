@@ -33,7 +33,7 @@ const MyReservationsPage = async () => {
                 <p className="mb-2">
                   <strong>Check out date:</strong> {reservation.end_date}
                 </p>
-
+                <p></p>
                 <p className="mb-2">
                   <strong>Number of nights:</strong>{" "}
                   {reservation.number_of_nights}
