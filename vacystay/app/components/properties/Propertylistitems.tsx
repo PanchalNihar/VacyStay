@@ -32,7 +32,7 @@ const Propertylistitems: React.FC<PropertyProps> = ({ property,markFavourite }) 
         <p className="text-lg font-bold">{property.title}</p>
       </div>
       <div className="mt-2">
-        <p className="text-sm text-gray-500 ">Rs {property.price_per_night}</p>
+        <p className="text-sm text-gray-500 ">$ {property.price_per_night}</p>
       </div>
     </div>
   );

@@ -38,7 +38,7 @@ const MyReservationsPage = async () => {
                   {reservation.number_of_nights}
                 </p>
                 <p className="mb-2">
-                  <strong>Total price:</strong> Rs {reservation.total_price}
+                  <strong>Total price:</strong> ${reservation.total_price}
                 </p>
 
                 <Link

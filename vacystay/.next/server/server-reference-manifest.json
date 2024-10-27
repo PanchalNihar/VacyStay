@@ -2,55 +2,95 @@
   "node": {
     "1abb81e6d789383292f706d41da0dfb8aebda8f9": {
       "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myfavourites/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
         "app/landlords/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
+        "app/myreservation/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myproperties/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
+        "app/page": "rsc",
+        "app/myfavourites/page": "rsc",
+        "app/properties/[id]/page": "rsc",
         "app/landlords/[id]/page": "rsc",
-        "app/page": "rsc"
+        "app/myreservation/page": "rsc",
+        "app/myproperties/page": "rsc"
       }
     },
     "1bd26a84e805658947712eebb606695b0a2913ec": {
       "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myfavourites/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
         "app/landlords/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
+        "app/myreservation/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myproperties/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
+        "app/page": "rsc",
+        "app/myfavourites/page": "rsc",
+        "app/properties/[id]/page": "rsc",
         "app/landlords/[id]/page": "rsc",
-        "app/page": "rsc"
+        "app/myreservation/page": "rsc",
+        "app/myproperties/page": "rsc"
       }
     },
     "27487f46ccc04150dca152c0b9cf0cc926b074dd": {
       "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myfavourites/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
         "app/landlords/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
+        "app/myreservation/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myproperties/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
+        "app/page": "rsc",
+        "app/myfavourites/page": "rsc",
+        "app/properties/[id]/page": "rsc",
         "app/landlords/[id]/page": "rsc",
-        "app/page": "rsc"
+        "app/myreservation/page": "rsc",
+        "app/myproperties/page": "rsc"
       }
     },
     "4c876c4dbbf567cc2f26d5985a7843ee6e509582": {
       "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myfavourites/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
         "app/landlords/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
+        "app/myreservation/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myproperties/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
+        "app/page": "rsc",
+        "app/myfavourites/page": "rsc",
+        "app/properties/[id]/page": "rsc",
         "app/landlords/[id]/page": "rsc",
-        "app/page": "rsc"
+        "app/myreservation/page": "rsc",
+        "app/myproperties/page": "rsc"
       }
     },
     "f00288ae2f48d505d58e03e492975a8a60dde93f": {
       "workers": {
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myfavourites/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/properties/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
         "app/landlords/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
-        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
+        "app/myreservation/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!",
+        "app/myproperties/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22D%3A%5C%5CSEM%204%5C%5CVacyStay%5C%5Cvacystay%5C%5Capp%5C%5Clib%5C%5Cactions.ts%22%2C%5B%22resetAuthCookies%22%2C%22handleLogin%22%2C%22getUserId%22%2C%22refreshToken%22%2C%22getAccessToken%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
+        "app/page": "rsc",
+        "app/myfavourites/page": "rsc",
+        "app/properties/[id]/page": "rsc",
         "app/landlords/[id]/page": "rsc",
-        "app/page": "rsc"
+        "app/myreservation/page": "rsc",
+        "app/myproperties/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "Yxh7102QbYxg8A6cyHCGIW92D0vVwfPE0HM3F1sNbec="
+  "encryptionKey": "my5UryDSler42bAhog91TLDnwhfgalDtwd7yyGpAwFw="
 }
