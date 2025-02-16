@@ -30,3 +30,39 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+
+
+
+Docker Setup
+
+# Check if Docker is installed
+docker --version
+
+# Check if Docker Compose is installed
+docker-compose --version
+
+
+docker-compose up --build
+
+
+-->If "web" is not running
+docker-compose up -d web
+
+1)If you encounter any issues with the database, you may need to run migrations
+docker-compose exec web python manage.py makemigrations
+docker-compose exec web python manage.py migrate
+
+2)To create a superuser for the Django admin
+docker-compose exec web python manage.py createsuperuser
+
+
+3)To check the logs of your containers
+docker-compose logs
+
+4)If you need to stop the containers
+docker-compose down
+
+5)If you want to remove volumes when stopping
+docker-compose down -v
+
